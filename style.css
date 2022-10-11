@@ -182,11 +182,13 @@ section .title::after{
 }
 .home .home-content .text-1{
     font-size: 27px;
+    color: black;
 }
 .home .home-content .text-2{
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
+    color: red;
 }
 .home .home-content .text-3{
     font-size: 40px;
@@ -407,6 +409,7 @@ section .title::after{
     font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
+    color: red;
 }
 .teams .carousel .card img{
     height: 150px;
